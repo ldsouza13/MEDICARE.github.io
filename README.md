@@ -11,8 +11,8 @@ The objective of this project is to develop a drug recommendation system for med
 > Helpful to Doctors, as new drugs are being produced and released often in the market.
 
 Setting up the Environment:
-> Libraries to install and import:
-  import numpy as np
+*Libraries to install and import:
+  *import numpy as np
   import pandas as pd
   import os
   import spacy
