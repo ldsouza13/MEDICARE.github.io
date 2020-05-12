@@ -108,9 +108,9 @@ Libraries to install and import:
   
   from nltk.sentiment.vader import SentimentIntensityAnalyzer
   
-  ** Methodology:
+  ** Methodology **:
   
-  **  Pre-Processing:
+  **  Pre-Processing **:
   
         1.    Creating the token object, which is used to create documents with linguistic annotations
    
