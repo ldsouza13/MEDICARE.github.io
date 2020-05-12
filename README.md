@@ -42,3 +42,23 @@ Setting up the Environment:
   import json
   import pickle
   import pandas as pd
+  from sklearn.model_selection import train_test_split
+  from sklearn.feature_extraction.text import CountVectorizer
+  from sklearn.pipeline import Pipeline
+  from sklearn.linear_model import LogisticRegression
+  from sklearn.naive_bayes import MultinomialNB
+  from sklearn.neighbors import KNeighborsClassifier
+  from sklearn.svm import SVC
+  from sklearn.ensemble import RandomForestClassifier
+  from sklearn.ensemble import AdaBoostClassifier
+  from sklearn.linear_model import SGDClassifier
+  from sklearn.pipeline import Pipeline
+  from sklearn.metrics import accuracy_score
+  from mlxtend.classifier import StackingClassifier
+  from sklearn.model_selection import cross_val_score, train_test_split
+  
+  nltk.download('vader_lexicon')
+
+  import numpy as np
+  from nltk.sentiment.vader import SentimentIntensityAnalyzer
+  
