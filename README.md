@@ -11,8 +11,6 @@
 -We intend to create this tool to help doctors get an idea about different drugs, with respect to the condition, based on reviews and ratings given by the patients. This would help them to shortlist the best drugs for each ailment and prescribe them accordingly.<br/> 
 -This tool potentially eliminates the role of an intermediate medical representative from different pharmaceutical companies for briefing and awareness about the available drugs in the market.
 
-![Functionality](https://github.com/ldsouza13/MEDICARE.github.io/blob//image.jpg?raw=true)
-
 **Dataset:**
 
 http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
@@ -139,10 +137,26 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         
   **Sentiment Analysis:**
   
-  **Machine Learning Methods used for verifying score:**
+   - Vader Sentiment Analysis was performed on the preprocessed reviews.
+   - Categorizes reviews into Positive(>=0.05), Neutral(between -0.05& 0.05) and Negative(<=-0.05)​
+      
+  **Machine Learning Models used for verifying score:**
   
+  - 3 Machine Learning models were used :
+  
+   * Logistic Regression
+   * SGD
+   * Multinomial Naive Bayes
+   
+   - Logistic Regression had the maximum accuracy.
+   
   **Normalization and recommended mean score:**
   
+   1. Normalized the review rating to match the 0-10 rating scale
+   2. Final drug rating was calculated as mean of the rating and normalized vader review score.
+   3. Sorted the data based on Condition and Drug name and aggregate was taken for the normalized rating. 
+   4. Recommendation was done by ranking the sorted data.
+      
   **Dashboard Creation:**
   
         1.    Used Tableau Desktop/Public for Dashboard Creation
