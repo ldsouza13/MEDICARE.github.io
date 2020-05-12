@@ -163,7 +163,8 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         2.    Embedded the Dashboard into a static website
         3.    Hosted the website on GitHub
         
-        
+  ![Dashboard](https://github.com/ldsouza13/MEDICARE.github.io/blob/dashboard.jpeg?raw=true)
+  
   **Accomplishments**
   
 This MEDICARE application developed based on a normalized recommended score, will help the doctors to view the top rated drugs for a    particular condition/disease by using a user-friendly and interactive web application. 
