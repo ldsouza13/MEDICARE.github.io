@@ -3,12 +3,12 @@
 **Objective:**
 
 
->The objective of this project is to develop a drug recommendation system for medical practitioners to get information on the popular drugs in the market at any point of time.
+-The objective of this project is to develop a drug recommendation system for medical practitioners to get information on the popular drugs in the market at any point of time.
 
 **Functionality and Usage:**
 
 -The main functionality of this tool is to recommend drugs available in the market to doctors based on a recommended rating score provided by patient’s reviews and medical conditions.<br/> 
--We intend to create this tool to help doctors get an idea about different drugs, with respect to the condition, based on reviews and ratings given by the patients. This would help them to shortlist the best drugs for each ailment and prescribe them accordingly. 
+-We intend to create this tool to help doctors get an idea about different drugs, with respect to the condition, based on reviews and ratings given by the patients. This would help them to shortlist the best drugs for each ailment and prescribe them accordingly.<br/> 
 -This tool potentially eliminates the role of an intermediate medical representative from different pharmaceutical companies for briefing and awareness about the available drugs in the market.
 
 **Dataset:**
