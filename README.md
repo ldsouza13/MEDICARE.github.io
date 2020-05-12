@@ -7,14 +7,14 @@
 
 **Functionality and Usage:**
 
-> Main functionality of this tool is to recommend drugs available in the market to doctors based on a recommended rating score provided by   patient’s reviews and medical conditions. 
-> Helpful to Doctors, as new drugs are being produced and released often in the market.
+> The main functionality of this tool is to recommend drugs available in the market to doctors based on a recommended rating score provided by patient’s reviews and medical conditions. 
+> We intend to create this tool to help doctors get an idea about different drugs, with respect to the condition, based on reviews and ratings given by the patients. This would help them to shortlist the best drugs for each ailment and prescribe them accordingly. 
+>This tool potentially eliminates the role of an intermediate medical representative from different pharmaceutical companies for briefing and awareness about the available drugs in the market.
 
-***Dataset:*
+**Dataset:**
 
->http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29</b>
->Training +Validation Data: 1,61,000(approx)
->Test Data: 54000(approx)
+>http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
+
 
 **Setting up the Environment:**
 
