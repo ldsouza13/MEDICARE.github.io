@@ -105,5 +105,21 @@ Libraries to install and import:
   nltk.download('vader_lexicon')
 
   import numpy as np
+  
   from nltk.sentiment.vader import SentimentIntensityAnalyzer
+  
+  ** Methodology:
+  
+  **  Pre-Processing:
+  
+        1.    Creating the token object, which is used to create documents with linguistic annotations
+   
+        2.    Lemmatizing each token and converting each token into lowercase
+   
+        3.    Removing stop words
+   
+        4.    Return preprocessed list of tokens
+
+
+  
   
