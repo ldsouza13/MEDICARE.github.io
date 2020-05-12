@@ -13,7 +13,7 @@
 
 **Dataset:**
 
->http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
+http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
 
 
 **Setting up the Environment:**
@@ -115,9 +115,9 @@ Libraries to install and import:
   
   from nltk.sentiment.vader import SentimentIntensityAnalyzer
   
- >**Methodology:**
+ **Methodology:**
   
-   **Pre-Processing:**
+    **Pre-Processing:**
   
         1.    Creating the token object, which is used to create documents with linguistic annotations
    
