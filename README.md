@@ -18,7 +18,7 @@ http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
 
 **Setting up the Environment:**
 
-Libraries to install and import:
+The below libraries need to be installed and imported using Python3.0 or higher:
 
   
   import numpy as np
@@ -116,16 +116,34 @@ Libraries to install and import:
   from nltk.sentiment.vader import SentimentIntensityAnalyzer
   
  **Methodology:**
-  
-    **Pre-Processing:**
+ 
+ **Text Preprocessing** 
+ 
+    **Text Pre-Processing using Snowball Stemmer:**
+        
+        1.    Delete HTML 
+        2.    Removing special characters and keeping only letters
+        3.    Convert to lower-case
+        4.    Removing Stop words
+        5.    Stemming
+        6.    Joining stemming words
+
+    **Text Pre-Processing using Spacy Tokenizer:**
   
         1.    Creating the token object, which is used to create documents with linguistic annotations
-   
         2.    Lemmatizing each token and converting each token into lowercase
-   
-        3.    Removing stop words
-   
+        3.    Removing stop words   
         4.    Return preprocessed list of tokens
+        
+  **Sentiment Analysis:**
+  **Machine Learning Methods used for verifying score:**
+  **Normalization and recommended mean score**
+  
+  **Dashboard Creation:**
+  
+        1.    Used Tableau Desktop/Public for Dashboard Creation
+        2.    Embedded the Dashboard into a static website
+        3.    Hosted the website on GitHub
 
 
   
