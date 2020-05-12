@@ -139,7 +139,7 @@ The below libraries need to be installed and imported using Python3.0 or higher:
   
   **Machine Learning Methods used for verifying score:**
   
-  **Normalization and recommended mean score**
+  **Normalization and recommended mean score:**
   
   **Dashboard Creation:**
   
@@ -153,6 +153,6 @@ This MEDICARE application developed based on a normalized recommended score, wil
 
   **Future Scope**
   
--Although we tried removing spam reviews while preprocessing the data, the dataset had too many duplicate reviews. A proper spam removal model could be developed for the same in the future.
+-Although we tried removing spam reviews while preprocessing the data, the dataset had too many duplicate reviews. A proper spam removal model could be developed for the same in the future.<br/>
 -Recommendation system using collaborative item-item based filtering 
   
