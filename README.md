@@ -137,7 +137,7 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         
   **Sentiment Analysis:**
   
-   - Vader Sentiment Analysis was performed on the preprocessed reviews.
+   - Vader Sentiment Analysis was performed on the preprocessed reviews.<br/>
    - Categorizes reviews into Positive(>=0.05), Neutral(between -0.05& 0.05) and Negative(<=-0.05)​
       
   **Machine Learning Models used for verifying score:**
@@ -162,6 +162,7 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         1.    Used Tableau Desktop/Public for Dashboard Creation
         2.    Embedded the Dashboard into a static website
         3.    Hosted the website on GitHub
+        
         
   **Accomplishments**
   
