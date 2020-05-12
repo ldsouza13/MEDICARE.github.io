@@ -10,9 +10,9 @@
 > Main functionality of this tool is to recommend drugs available in the market to doctors based on a recommended rating score provided by   patient’s reviews and medical conditions. 
 > Helpful to Doctors, as new drugs are being produced and released often in the market.
 
-**Setting up the Environment:**
+>**Setting up the Environment:**
 
-Libraries to install and import:
+>Libraries to install and import:
 
   import numpy as np
   
@@ -110,7 +110,7 @@ Libraries to install and import:
   
  >**Methodology:**
   
-   >**Pre-Processing:**
+   >>**Pre-Processing:**
   
         1.    Creating the token object, which is used to create documents with linguistic annotations
    
