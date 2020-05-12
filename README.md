@@ -119,7 +119,7 @@ The below libraries need to be installed and imported using Python3.0 or higher:
  
  **Text Preprocessing** 
  
-    **Text Pre-Processing using Snowball Stemmer:**
+    Text Pre-Processing using Snowball Stemmer:
         
         1.    Delete HTML 
         2.    Removing special characters and keeping only letters
@@ -128,7 +128,7 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         5.    Stemming
         6.    Joining stemming words
 
-    **Text Pre-Processing using Spacy Tokenizer:**
+    Text Pre-Processing using Spacy Tokenizer:
   
         1.    Creating the token object, which is used to create documents with linguistic annotations
         2.    Lemmatizing each token and converting each token into lowercase
@@ -136,7 +136,9 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         4.    Return preprocessed list of tokens
         
   **Sentiment Analysis:**
+  
   **Machine Learning Methods used for verifying score:**
+  
   **Normalization and recommended mean score**
   
   **Dashboard Creation:**
@@ -144,7 +146,13 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         1.    Used Tableau Desktop/Public for Dashboard Creation
         2.    Embedded the Dashboard into a static website
         3.    Hosted the website on GitHub
-
-
+        
+  **Accomplishments**
   
+This MEDICARE application developed based on a normalized recommended score, will help the doctors to view the top rated drugs for a    particular condition/disease by using a user-friendly and interactive web application. 
+
+  **Future Scope**
+  
+-Although we tried removing spam reviews while preprocessing the data, the dataset had too many duplicate reviews. A proper spam removal model could be developed for the same in the future.
+-Recommendation system using collaborative item-item based filtering 
   
