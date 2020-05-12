@@ -12,7 +12,7 @@
 
 >**Setting up the Environment:**
 
->Libraries to install and import:
+Libraries to install and import:
 
   import numpy as np
   
@@ -110,7 +110,7 @@
   
  >**Methodology:**
   
-   >>**Pre-Processing:**
+   **Pre-Processing:**
   
         1.    Creating the token object, which is used to create documents with linguistic annotations
    
