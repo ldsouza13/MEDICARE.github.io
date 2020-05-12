@@ -3,7 +3,7 @@
 **Objective:**
 
 
->The objective of this project is to develop a drug recommendation system for medical practitioners to get information on the popular drugs in the market at any point of time.
+The objective of this project is to develop a drug recommendation system for medical practitioners to get information on the popular drugs in the market at any point of time.
 
 **Functionality and Usage:**
 
@@ -108,9 +108,9 @@ Libraries to install and import:
   
   from nltk.sentiment.vader import SentimentIntensityAnalyzer
   
-  ** Methodology **:
+  **Methodology:**
   
-  **  Pre-Processing **:
+   **Pre-Processing:**
   
         1.    Creating the token object, which is used to create documents with linguistic annotations
    
