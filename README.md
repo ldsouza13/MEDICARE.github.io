@@ -142,13 +142,13 @@ The below libraries need to be installed and imported using Python3.0 or higher:
       
   **Machine Learning Models used for verifying score:**
   
-  - 3 Machine Learning models were used :
+   3 Machine Learning models were used :
   
    * Logistic Regression
    * SGD
    * Multinomial Naive Bayes
    
-   - Logistic Regression had the maximum accuracy.
+   Logistic Regression had the maximum accuracy.
    
   **Normalization and recommended mean score:**
   
@@ -163,7 +163,7 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         2.    Embedded the Dashboard into a static website
         3.    Hosted the website on GitHub
         
-  ![Dashboard](https://github.com/ldsouza13/MEDICARE.github.io/blob/dashboard.jpeg?raw=true)
+   Link to the dashboard : https://ldsouza13.github.io/MEDICARE.github.io/
   
   **Accomplishments**
   
