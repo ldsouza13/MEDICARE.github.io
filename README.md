@@ -149,7 +149,7 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         2.    Embedded the Dashboard into a static website
         3.    Hosted the website on GitHub
         
-  ![Functionality](https://github.com/ldsouza13/MEDICARE.github.io/blob/dashboard.jpg?raw=true)
+  ![Dashboard](https://github.com/ldsouza13/MEDICARE.github.io/blob/dashboard.jpg?raw=true)
   
   **Accomplishments**
   
