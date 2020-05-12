@@ -11,7 +11,7 @@
 -We intend to create this tool to help doctors get an idea about different drugs, with respect to the condition, based on reviews and ratings given by the patients. This would help them to shortlist the best drugs for each ailment and prescribe them accordingly.<br/> 
 -This tool potentially eliminates the role of an intermediate medical representative from different pharmaceutical companies for briefing and awareness about the available drugs in the market.
 
-![Functionality](https://github.com/ldsouza13/MEDICARE.github.io/blob//image.jpg?raw=true)
+![Functionality](https://github.com/ldsouza13/MEDICARE.github.io/blob/functionality.jpg?raw=true)
 
 **Dataset:**
 
@@ -149,6 +149,8 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         2.    Embedded the Dashboard into a static website
         3.    Hosted the website on GitHub
         
+  ![Functionality](https://github.com/ldsouza13/MEDICARE.github.io/blob/dashboard.jpg?raw=true)
+  
   **Accomplishments**
   
 This MEDICARE application developed based on a normalized recommended score, will help the doctors to view the top rated drugs for a    particular condition/disease by using a user-friendly and interactive web application. 
