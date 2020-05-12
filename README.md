@@ -3,7 +3,7 @@
 **Objective:**
 
 
-The objective of this project is to develop a drug recommendation system for medical practitioners to get information on the popular drugs in the market at any point of time.
+>The objective of this project is to develop a drug recommendation system for medical practitioners to get information on the popular drugs in the market at any point of time.
 
 **Functionality and Usage:**
 
