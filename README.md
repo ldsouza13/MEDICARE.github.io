@@ -108,7 +108,7 @@ Libraries to install and import:
   
   from nltk.sentiment.vader import SentimentIntensityAnalyzer
   
-  **Methodology:**
+ **Methodology:**
   
    **Pre-Processing:**
   
