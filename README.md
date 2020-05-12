@@ -3,7 +3,7 @@
 **Objective:**
 
 
-The objective of this project is to develop a drug recommendation system for medical practitioners to get information on the popular drugs in the market at any point of time.
+>The objective of this project is to develop a drug recommendation system for medical practitioners to get information on the popular drugs in the market at any point of time.
 
 **Functionality and Usage:**
 
@@ -112,13 +112,13 @@ Libraries to install and import:
   
    **Pre-Processing:**
   
-        1.    Creating the token object, which is used to create documents with linguistic annotations
+       > 1.    Creating the token object, which is used to create documents with linguistic annotations
    
-        2.    Lemmatizing each token and converting each token into lowercase
+       > 2.    Lemmatizing each token and converting each token into lowercase
    
-        3.    Removing stop words
+       > 3.    Removing stop words
    
-        4.    Return preprocessed list of tokens
+       > 4.    Return preprocessed list of tokens
 
 
   
