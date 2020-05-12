@@ -1,4 +1,4 @@
-# MEDICARE.github.io
+# MEDICARE - Drug Recommender System
 
 **Objective:**
 
@@ -10,17 +10,24 @@
 > Main functionality of this tool is to recommend drugs available in the market to doctors based on a recommended rating score provided by   patient’s reviews and medical conditions. 
 > Helpful to Doctors, as new drugs are being produced and released often in the market.
 
+>***Dataset:*
+
+>http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
+>Training +Validation Data: 1,61,000(approx)
+>Test Data: 54000(approx)
+
 >**Setting up the Environment:**
 
-Libraries to install and import:
+>Libraries to install and import:
 
-  import numpy as np
   
-  import pandas as pd
+  >import numpy as np
   
-  import os
+  >import pandas as pd
   
-  import spacy
+  >import os
+  
+  >import spacy
   
   import en_core_web_sm
   
