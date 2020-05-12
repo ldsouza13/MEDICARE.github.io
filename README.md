@@ -11,6 +11,8 @@
 -We intend to create this tool to help doctors get an idea about different drugs, with respect to the condition, based on reviews and ratings given by the patients. This would help them to shortlist the best drugs for each ailment and prescribe them accordingly.<br/> 
 -This tool potentially eliminates the role of an intermediate medical representative from different pharmaceutical companies for briefing and awareness about the available drugs in the market.
 
+![Functionality](https://github.com/ldsouza13/MEDICARE.github.io/blob//image.jpg?raw=true)
+
 **Dataset:**
 
 http://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
