@@ -165,6 +165,8 @@ The below libraries need to be installed and imported using Python3.0 or higher:
         1.    Used Tableau Desktop/Public for Dashboard Creation
         2.    Embedded the Dashboard into a static website
         3.    Hosted the website on GitHub
+    
+   ![DASHBOARD_MEDICARE](https://user-images.githubusercontent.com/54454914/81767095-90518e00-94a5-11ea-899d-688a72c8c62d.jpg)
         
    Link to the dashboard : https://ldsouza13.github.io/MEDICARE.github.io/
   
