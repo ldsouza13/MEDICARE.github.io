@@ -152,10 +152,10 @@ The below libraries need to be installed and imported using Python3.0 or higher:
    
   **Normalization and recommended mean score:**
   
-   1. Normalized the review rating to match the 0-10 rating scale
-   2. Final drug rating was calculated as mean of the rating and normalized vader review score.
-   3. Sorted the data based on Condition and Drug name and aggregate was taken for the normalized rating. 
-   4. Recommendation was done by ranking the sorted data.
+        1.   Normalized the review rating to match the 0-10 rating scale
+        2.   Final drug rating was calculated as mean of the rating and normalized vader review score.
+        3.   Sorted the data based on Condition and Drug name and aggregate was taken for the normalized rating. 
+        4.   Recommendation was done by ranking the sorted data.
       
   **Dashboard Creation:**
   
@@ -172,5 +172,4 @@ This MEDICARE application developed based on a normalized recommended score, wil
   **Future Scope**
   
 -Although we tried removing spam reviews while preprocessing the data, the dataset had too many duplicate reviews. A proper spam removal model could be developed for the same in the future.<br/>
--Recommendation system using collaborative item-item based filtering 
-  
+-We tried omplementing a recommendation system using content based and collaborative item-based filtering. However, the huge data set led to sparse matrix and inaccurate results. A hybrid system could be used in the future. 
